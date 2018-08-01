@@ -1,0 +1,86 @@
+delivery chagres,delivery_info
+delivery,delivery_info
+how do I get my flowers?,delivery_info
+Is delivery free?,delivery_info
+where do you deliever?,delivery_info
+will I able to get my flowers on Sunday?,delivery_info
+when will I receive my flowers?,delivery_info
+do you deliver on weekends,delivery_info
+Do you deliever,delivery_info
+how much notice to delivery?,delivery_info
+can you deliver the flowers urgently?,delivery_info
+i need flowers on monday?,delivery_info
+rose,delivery_info
+Roses,delivery_info
+I want roses,delivery_info
+glowers for anniversaries?,flower_suggestions
+What flowers should I bought for my mom?,flower_suggestions
+bouquet for my girlfriend?,flower_suggestions
+bouquet for my boyfriend?,flower_suggestions
+flowers for funeral?,flower_suggestions
+what kind of flowers?,flower_suggestions
+flowers suggestion?,flower_suggestions
+flower,flower_suggestions
+suggest me some flowers,flower_suggestions
+flowers for valentine day?,flower_suggestions
+Flower recommendation?,flower_suggestions
+Anniversary,flower_suggestions
+can you suggest me some flowers,flower_suggestions
+flower suggestion,flower_suggestions
+I need to buy some flowers,flower_suggestions
+male,flower_suggestions
+female,flower_suggestions
+not sure,flower_suggestions
+recommendation flowers for special Ocassion?,flower_suggestions
+bye bye,goodbyes
+quit,goodbyes
+exit,goodbyes
+I'm leaving,goodbyes
+stop,goodbyes
+adieu,goodbyes
+good bye,goodbyes
+cya,goodbyes
+bye now,goodbyes
+farewell,goodbyes
+we are done,goodbyes
+later,goodbyes
+see you,goodbyes
+bye.,goodbyes
+afternoon,greeting
+hello,greeting
+hi,greeting
+hey,greeting
+good morning,greeting
+good evening,greeting
+yo,greeting
+greeting,greeting
+howdy,greeting
+good day,greeting
+g'day,greeting
+what's up,greeting
+sup,greeting
+welcome,greeting
+Knock Knock,Joke
+do you know any joke,Joke
+Wax Flower,Price
+roses i want,Price
+Carnations,Price
+Daisy Spray,Price
+Hydrageas,Price
+Gerbera Daisies,Price
+Jasmine Price,Price
+Rose Price,Price
+thanxx,thank_you
+thanks,thank_you
+thank you,thank_you
+thank u,thank_you
+thank you so much,thank_you
+thank you very much,thank_you
+I owe you one,thank_you
+"alright, thanks",thank_you
+cheers!,thank_you
+cheers,thank_you
+thanks a bunch,thank_you
+thanx,thank_you
+thnx,thank_you
+okay thaxx,thank_you
