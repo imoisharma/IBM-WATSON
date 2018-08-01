@@ -1,0 +1,22 @@
+gender,non binary,non-binary,non,others
+gender,male,masculine traits,men,masculinity,malee,manliness,mocelutu,waisale vatuvoka,seremaia,masculine,macho,manhood,hyper masculine,machismo
+gender,female,women,femaleness,queerness,femal,genderqueer,butch femme,queers,lesbian
+Occassion,Get well,soon,get well,fever,hospital,nursing center,sick,sick friend
+Occassion,Graduation,graduate,graduating seniors,grads,diploma,gradate,proms,gradute,pre med,bachelor degree
+Occassion,Retirement,retire,pension,retirees,pensioned,pensionable salary,quits
+Occassion,Valentine Day,Love,pyaar,cuddle,Valentines day,valentine,Valentine's
+Occassion,Wedding,bride,bridal shower,bridal,wed ding,newlyweds,bachelorette party,wedded,marries,groom
+Occassion,Birthday,bday,Birthday,birtjday,B'Day
+Occassion,Mother's Day,Mom's day,Mumma,Maa day,Mothers day,mother's day,mothers,Mother's
+Occassion,Anniversary,anniversay,anniverary,annivesary,aniversary,anniv,annniversary,commemoration,wedding anniversaries,anniversaried
+Occassion,Funeral,graveside,burial,cremation,graveside service,casket,mourners,requiem mass,interment,funereal,memorial
+relationship,husband,father,fiancé,fiance,son,hus band,boyfriend,hubby,fiancée,fiancee,fianc,niece,stepfather,brother,stepson
+relationship,wife,wifey,fiance,girlfriend,sona,baby,babu,love,mygirl
+relationship,boyfriend,fiance,fiancé,roommate,husband,fianceé,estranged husband,fiancée,fianc,fianc e,stepson
+relationship,father,son,uncle,brother,grandfather,nephew,eldest son,stepfather,grandson,younger brother
+relationship,friend,cousin,colleague,roommate,buddies,acquaintances,relatives,family,fiancée,nephew,brother,fiancee,father,fiance,son,stepfather
+relationship,girlfriend,fiancee,fiancée,fiance,roommate,estranged wife,fianceé,wife,stepdaughter,mother,niece
+relationship,mother,daughter,aunt,niece,grandmother,son,sister,maternal grandmother,granddaughter,stepmother,nephew,wife,stepdaughter,cousin
+response_types,negative,negativism,neg,favorably,vitriol,negativeness,vitriolic,vituperative,unfavorables,hateful,negatived,no,Nope,Noo
+response_types,positive,postive,positve,favorably,plusses,pluses,posited,defensively,positionally sound,Yes,I think so,Think soo,Yup,Surely,ye
+response_types,uncertain,unsure,uncertainty,uncertainities,uncertainly,unclear,uncertaintly,uncertainties,uncertainness,unsureness,not sure,no idea,don't know
